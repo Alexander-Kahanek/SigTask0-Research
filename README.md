@@ -1,0 +1,3 @@
+This is a repository to store additional files and methods that were used for research on the Sigmorphon Shared 2020 Task0 - Morphological Inflection.
+
+More will come here...
